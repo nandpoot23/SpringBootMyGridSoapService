@@ -1,0 +1,1 @@
+http://localhost:6062/DmService/1.0.wsdl
